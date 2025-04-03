@@ -8,11 +8,13 @@ public class Basics {
 	public void Demo()
 	{
 		System.out.println("Hello");
+		System.out.println("HelloWorld");
 	}
 	@Test(groups= {"smoke"})
 	public void HomeLoan()
 	{
 		System.out.println("Homeloan");
+		System.out.println("Homeloan accepted");
 	}
 	@Test(groups= {"smoke"})
 	public void CarLoan()
