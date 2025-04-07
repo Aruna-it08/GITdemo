@@ -31,4 +31,9 @@ public class Basics {
 	{
 		System.out.println("GoldLoanLogin");
 	}
+	@Test
+	public void GoldLoan()
+	{
+		System.out.println("GoldLoan");
+	}
 }
