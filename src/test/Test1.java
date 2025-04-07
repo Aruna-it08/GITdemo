@@ -10,4 +10,8 @@ public class Test1 {
 	{
 		System.out.println("Good");
 	}
+	public void testrun2()
+	{
+		System.out.println("GoodMorning");
+	}
 }
